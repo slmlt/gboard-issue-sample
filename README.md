@@ -1,2 +1,2 @@
 # gboard-issue-sample
-Simple app to demonstrate incorrect Gboard behavior in certain conditions https://issuetracker.google.com/issues/187205063
+Simple app to demonstrate incorrect Gboard behavior under certain conditions https://issuetracker.google.com/issues/187205063
